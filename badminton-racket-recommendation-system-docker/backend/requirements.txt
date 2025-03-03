@@ -1,0 +1,9 @@
+fastapi
+pydantic
+python-dotenv
+pydantic-settings
+resend
+pandas
+scikit-learn
+numpy
+psycopg2

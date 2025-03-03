@@ -1,0 +1,188 @@
+,Model_name,Racket_type,Weight,Brand,Grip_size,Color,Tension,Material,Head_shape,Price,Playing_level
+2,Aeronaut 7000,even balance,82,Li-Ning,G3,Red/White,27,carbon,isometric,1600,Intermediate
+4,Meteor X 80,head light,76,Victor,G5,Green,25,carbon,oval,1500,Intermediate
+6,Turbo Charging 20,even balance,79,Li-Ning,G4,White/Blue,26,carbon,oval,1700,Intermediate
+11,JS-12,even balance,81,Victor,G5,Black/Red,26,carbon,oval,1600,Intermediate
+14,Jetspeed S 10,head light,77,Victor,G5,Orange,25,carbon,isometric,1500,Intermediate
+18,Thruster F Claw,head heavy,85,Kawasaki,G4,Green/Black,28,carbon,isometric,1600,Intermediate
+21,Jetspeed 12,head light,77,Victor,G5,Blue/Yellow,26,carbon,oval,1600,Intermediate
+25,Thruster K 9,even balance,80,Kawasaki,G3,Green/White,27,carbon,oval,1500,Intermediate
+28,Meteor X 90,even balance,82,Victor,G3,Black/Orange,28,graphite,isometric,1800,Intermediate
+31,JS-10,head light,76,Victor,G3,White/Red,25,carbon,oval,1600,Intermediate
+34,Windstorm 900,head light,77,Carlton,G3,Black/Silver,26,graphite,isometric,1500,Intermediate
+38,Astrox 77,even balance,82,Yonex,G4,Yellow/Black,27,graphite,isometric,1800,Intermediate
+43,Thruster K 20,even balance,80,Kawasaki,G4,Green/Black,27,graphite,oval,1600,Intermediate
+48,JS-15,head light,76,Victor,G3,Orange/Black,25,carbon,isometric,1500,Intermediate
+51,Jetspeed 15,head light,77,Victor,G3,Red/Silver,26,graphite,oval,1700,Intermediate
+55,Turbo Charging 40,even balance,82,Li-Ning,G4,Black/Red,27,graphite,oval,1700,Intermediate
+57,Meteor X 70,head light,76,Victor,G3,Green/White,25,graphite,oval,1600,Intermediate
+63,Thruster K 20,even balance,80,Kawasaki,G4,Green/Black,27,graphite,oval,1600,Intermediate
+68,JS-15,head light,76,Victor,G3,Orange/Black,25,carbon,isometric,1500,Intermediate
+71,Jetspeed 15,head light,77,Victor,G3,Red/Silver,26,graphite,oval,1700,Intermediate
+75,Turbo Charging 40,even balance,82,Li-Ning,G4,Black/Red,27,graphite,oval,1700,Intermediate
+77,Meteor X 70,head light,76,Victor,G3,Green/White,25,graphite,oval,1600,Intermediate
+82,Meteor X 60,head light,76,Victor,G3,Green/Yellow,25,carbon,isometric,1600,Intermediate
+84,Nanoray 600,head light,77,Yonex,G5,Red/Black,26,carbon,isometric,1700,Intermediate
+88,JS-25,head light,78,Victor,G3,Orange/White,26,carbon,isometric,1700,Intermediate
+90,Hypernano X 500,head light,77,Yonex,G5,Yellow/Black,25,carbon,isometric,1600,Intermediate
+94,Nanoflare 400,head light,76,Yonex,G3,White/Red,26,carbon,isometric,1700,Intermediate
+97,Meteor X 120,head light,78,Victor,G3,Green/White,25,graphite,oval,1800,Intermediate
+103,Jetspeed 20,head light,76,Victor,G4,Blue/Gold,25,graphite,oval,1600,Intermediate
+108,Meteor X 95,even balance,83,Victor,G3,Purple/White,28,carbon,isometric,1900,Intermediate
+110,Hypernano X 400,head light,77,Yonex,G5,White/Red,25,carbon,isometric,1700,Intermediate
+114,Nanoflare 300,head light,76,Yonex,G3,Black/White,26,carbon,isometric,1600,Intermediate
+117,Windstorm 800,head light,78,Carlton,G3,White/Green,25,graphite,oval,1700,Intermediate
+122,Meteor X 55,head light,76,Victor,G3,Yellow/Black,25,carbon,isometric,1550,Intermediate
+124,Nanoray 500,head light,77,Yonex,G5,Blue/Orange,26,carbon,isometric,1750,Intermediate
+128,JS-35,head light,78,Victor,G3,Purple/Yellow,26,carbon,isometric,1700,Intermediate
+130,Hypernano X 300,head light,77,Yonex,G5,Black/Green,25,carbon,isometric,1650,Intermediate
+134,Nanoflare 200,head light,76,Yonex,G3,White/Black,26,carbon,isometric,1600,Intermediate
+137,Meteor X 130,head light,78,Victor,G3,Green/Orange,25,graphite,oval,1750,Intermediate
+142,PowerStrike 3000,head light,76,RSL,G3,Black/Neon Green,25,composite,isometric,1650,Intermediate
+146,Titan Cloud,head light,77,Adidas,G4,Green/White,26,carbon,isometric,1700,Intermediate
+149,Quantum X80,head light,78,Oliver,G4,Blue/Orange,26,graphite,oval,1750,Intermediate
+153,Feather Light Pro,head light,75,Karakal,G5,Light Blue/White,25,carbon,oval,1600,Intermediate
+156,Aero Smash,head light,77,Gosen,G5,Purple/Neon Yellow,26,carbon,isometric,1700,Intermediate
+162,LightSpeed Pro,head light,76,Sotx,G3,White/Green,25,nano-alloy,isometric,1650,Intermediate
+164,AirStream Lite,head light,75,Wish,G5,Yellow/Purple,26,graphite,isometric,1600,Intermediate
+167,Feather Touch,head light,77,Kumpoo,G5,Pink/White,25,carbon,oval,1700,Intermediate
+170,Swift Strike,head light,78,Victor,G5,Navy/Orange,26,carbon,isometric,1750,Intermediate
+173,Cosmic Flare,head light,76,Carlton,G5,Blue/Yellow,25,graphite,oval,1650,Intermediate
+176,Airborne Assault,head light,77,RSL,G5,Green/Silver,26,graphite,isometric,1700,Intermediate
+182,Featherlight X,head light,75,Yehlex,G3,White/Lime,25,carbon,isometric,1600,Intermediate
+184,AeroSwift Lite,head light,77,Talbot Torro,G5,Orange/Gray,26,carbon,isometric,1700,Intermediate
+187,Swift Feather,head light,76,Pointfore,G5,Green/White,25,carbon,oval,1650,Intermediate
+190,Stealth Shadow,head light,78,Mantis,G5,Charcoal/Neon Blue,26,carbon,isometric,1750,Intermediate
+193,Cosmic Flare Lite,head light,76,FZ Forza,G5,Pink/Gray,25,graphite,oval,1650,Intermediate
+196,LightSpeed Ace,head light,77,Dunlop,G5,Light Blue/Black,26,carbon,isometric,1700,Intermediate
+202,Feather Rush,head light,76,Aerowing,G3,White/Neon Orange,25,carbon,isometric,1650,Intermediate
+204,Zephyr Lite,head light,75,Windforce,G5,Teal/Yellow,26,carbon,isometric,1600,Intermediate
+207,Swift Glide,head light,77,Glidetech,G5,Silver/Lime Green,25,carbon,oval,1700,Intermediate
+210,Stealth Ninja,head light,76,Shadowcraft,G5,Matte Black/Red,26,graphite,isometric,1650,Intermediate
+213,Cosmic Flare Ultra,head light,78,Ultralight,G5,Neon Yellow/Black,25,carbon,oval,1750,Intermediate
+216,LightSpeed Falcon,head light,77,Falconwing,G5,Sky Blue/Silver,26,carbon,isometric,1700,Intermediate
+222,Feather Whisper,head light,75,WhisperTech,G3,Whisper Gray/Pink,25,carbon,isometric,1600,Intermediate
+224,Zephyr Breeze,head light,76,BreezeWing,G5,Breeze Green/White,26,carbon,isometric,1650,Intermediate
+227,Swift Current,head light,77,CurrentTech,G5,River Blue/Silver,25,graphite,oval,1700,Intermediate
+230,Stealth Phantom,head light,76,PhantomCraft,G5,Ghost White/Shadow Gray,26,carbon,isometric,1650,Intermediate
+233,Cosmic Nova,head light,78,NovaLight,G5,Nova Orange/Stardust White,25,graphite,oval,1750,Intermediate
+236,LightSpeed Photon,head light,77,PhotonTech,G5,Photon Yellow/Electric Purple,26,carbon,isometric,1700,Intermediate
+242,Feather Cirrus,head light,76,CirrusTech,G3,Cirrus White/Sky Blue,25,carbon,isometric,1650,Intermediate
+244,Zephyr Mistral,head light,75,MistralWing,G5,Misty Gray/Sea Green,26,carbon,isometric,1600,Intermediate
+247,Swift Mercury,head light,77,MercurySpeed,G5,Mercury Silver/Flash Red,25,graphite,oval,1700,Intermediate
+250,Stealth Eclipse,head light,76,EclipseTech,G5,Eclipse Black/Lunar Gray,26,carbon,isometric,1650,Intermediate
+253,Cosmic Nebula,head light,78,NebulaTech,G5,Nebula Pink/Stardust Purple,25,graphite,oval,1750,Intermediate
+256,LightSpeed Aurora,head light,77,AuroraTech,G5,Aurora Green/Polar White,26,carbon,isometric,1700,Intermediate
+262,Feather Wisp,head light,75,WispTech,G3,Wisp White/Ethereal Silver,25,carbon,isometric,1600,Intermediate
+264,Zephyr Chinook,head light,76,ChinookWing,G5,Chinook Green/Arctic White,26,carbon,isometric,1650,Intermediate
+267,Swift Comet,head light,77,CometSpeed,G5,Comet White/Tail Blue,25,graphite,oval,1700,Intermediate
+270,Stealth Wraith,head light,76,WraithTech,G5,Wraith Black/Shadow Purple,26,carbon,isometric,1650,Intermediate
+273,Cosmic Pulsar,head light,78,PulsarTech,G5,Pulsar Red/Star White,25,graphite,oval,1750,Intermediate
+276,LightSpeed Neutrino,head light,77,NeutrinoTech,G5,Neutrino Blue/Quantum White,26,carbon,isometric,1700,Intermediate
+282,Feather Nimbus,head light,75,NimbusTech,G3,Nimbus Gray/Cloud White,25,carbon,isometric,1600,Intermediate
+284,Zephyr Sirocco,head light,76,SiroccoWing,G5,Sirocco Tan/Desert Gold,26,carbon,isometric,1650,Intermediate
+287,Swift Meteor,head light,77,MeteorSpeed,G5,Meteor Gray/Flame Orange,25,graphite,oval,1700,Intermediate
+290,Stealth Shadowblade,head light,76,ShadowbladeTech,G5,Shadow Black/Ninja Gray,26,carbon,isometric,1650,Intermediate
+293,Cosmic Quasar,head light,78,QuasarTech,G5,Quasar Purple/Galactic Silver,25,graphite,oval,1750,Intermediate
+296,LightSpeed Photon,head light,77,PhotonTech,G5,Photon Yellow/Light Blue,26,carbon,isometric,1700,Intermediate
+302,Feather Gossamer,head light,75,GossamerTech,G3,Gossamer White/Mist Gray,25,carbon,isometric,1600,Intermediate
+304,Zephyr Boreas,head light,76,BoreasWing,G5,Boreas Silver/Arctic Blue,26,carbon,isometric,1650,Intermediate
+307,Swift Cheetah,head light,77,CheetahSpeed,G5,Cheetah Orange/Savannah Tan,25,graphite,oval,1700,Intermediate
+310,Stealth Phantom,head light,76,PhantomTech,G5,Phantom Black/Ghost White,26,carbon,isometric,1650,Intermediate
+313,Cosmic Nebula,head light,78,NebulaTech,G5,Nebula Pink/Celestial Blue,25,graphite,oval,1750,Intermediate
+316,LightSpeed Lumina,head light,77,LuminaTech,G5,Lumina White/Prism Rainbow,26,carbon,isometric,1700,Intermediate
+322,Whirlwind Gale,head light,76,GaleTech,G5,Gale White/Wind Gray,25,carbon,oval,1600,Intermediate
+324,Breeze Zephyr,head light,75,ZephyrWing,G5,Zephyr Silver/Cloud Blue,26,carbon,oval,1650,Intermediate
+327,Speedster Jaguar,head light,77,JaguarSpeed,G5,Jaguar Orange/Forest Tan,25,graphite,isometric,1700,Intermediate
+330,Phantom Mirage,head light,76,MirageTech,G5,Mirage Black/Ghost White,26,carbon,oval,1650,Intermediate
+333,Celestial Nova,head light,78,NovaWing,G5,Nova Pink/Starry Blue,25,graphite,isometric,1750,Intermediate
+336,LightSpeed Aurora,head light,77,AuroraTech,G5,Aurora White/Prism Rainbow,26,carbon,oval,1700,Intermediate
+340,Aurora Polaris,head light,76,PolarisTech,G5,Polaris White/Aurora Green,25,carbon,oval,1600,Intermediate
+343,Gust Tempest,head light,75,TempestWing,G5,Tempest White/Wind Gray,26,carbon,isometric,1650,Intermediate
+347,Panther Swift,head light,77,SwiftTech,G5,Swift Orange/Jungle Tan,25,graphite,isometric,1700,Intermediate
+350,Mirage Phantom,head light,76,PhantomWing,G5,Phantom Black/Ghost Silver,26,carbon,oval,1650,Intermediate
+353,Starlight Nova,head light,78,NovaForce,G5,Nova Pink/Starlight Blue,25,graphite,isometric,1750,Intermediate
+356,Luminous Aurora,head light,77,AuroraWing,G5,Aurora White/Prism Green,26,carbon,oval,1700,Intermediate
+362,Breeze Feather,head light,75,FeatherTech,G5,Feather White/Light Gray,25,carbon,oval,1600,Intermediate
+364,Typhoon Storm,head light,76,StormWing,G5,Storm Gray/Tempest Blue,26,carbon,oval,1650,Intermediate
+367,Jaguar Speed,head light,77,SpeedTech,G5,Speed Orange/Savannah Tan,25,graphite,isometric,1700,Intermediate
+370,Ghost Phantom,head light,76,PhantomTech,G5,Phantom Black/Ghost Silver,26,carbon,oval,1650,Intermediate
+373,Celestial Star,head light,78,StarTech,G5,Star Pink/Celestial Blue,25,graphite,isometric,1750,Intermediate
+376,Aurora Light,head light,77,LightTech,G5,Light White/Prism Green,26,carbon,oval,1700,Intermediate
+382,Feather Breeze,head light,75,BreezeTech,G5,Breeze White/Light Gray,25,carbon,oval,1600,Intermediate
+384,Typhoon Gale,head light,76,GaleWing,G5,Gale Gray/Tempest Blue,26,carbon,oval,1650,Intermediate
+387,Panther Speed,head light,77,SpeedWing,G5,Speed Orange/Savannah Tan,25,graphite,isometric,1700,Intermediate
+390,Ghost Shadow,head light,76,ShadowWing,G5,Shadow Black/Ghost Silver,26,carbon,oval,1650,Intermediate
+393,Celestial Comet,head light,78,CometTech,G5,Comet Pink/Celestial Blue,25,graphite,isometric,1750,Intermediate
+396,Aurora Light,head light,77,LightWing,G5,Light White/Prism Green,26,carbon,oval,1700,Intermediate
+402,Feather Light,head light,75,LightTech,G5,Light White/Light Gray,25,carbon,oval,1600,Intermediate
+404,Typhoon Tempest,head light,76,TempestTech,G5,Tempest Gray/Tempest Blue,26,carbon,oval,1650,Intermediate
+407,Panther Swift,head light,77,SwiftWing,G5,Swift Orange/Savannah Tan,25,graphite,isometric,1700,Intermediate
+410,Ghost Phantom,head light,76,PhantomTech,G5,Phantom Black/Ghost Silver,26,carbon,oval,1650,Intermediate
+413,Celestial Nova,head light,78,NovaTech,G5,Nova Pink/Starry Blue,25,graphite,isometric,1750,Intermediate
+416,Aurora Light,head light,77,LightWing,G5,Light White/Prism Green,26,carbon,oval,1700,Intermediate
+422,Breeze Feather,head light,75,FeatherTech,G5,Feather White/Light Gray,25,carbon,oval,1600,Intermediate
+424,Typhoon Storm,head light,76,StormWing,G5,Storm Gray/Tempest Blue,26,carbon,oval,1650,Intermediate
+427,Jaguar Speed,head light,77,SpeedTech,G5,Speed Orange/Savannah Tan,25,graphite,isometric,1700,Intermediate
+430,Ghost Phantom,head light,76,PhantomTech,G5,Phantom Black/Ghost Silver,26,carbon,oval,1650,Intermediate
+433,Celestial Star,head light,78,StarTech,G5,Star Pink/Celestial Blue,25,graphite,isometric,1750,Intermediate
+436,Aurora Light,head light,77,LightWing,G5,Light White/Prism Green,26,carbon,oval,1700,Intermediate
+442,Feather Light,head light,75,LightTech,G5,Light White/Light Gray,25,carbon,oval,1600,Intermediate
+444,Typhoon Tempest,head light,76,TempestTech,G5,Tempest Gray/Tempest Blue,26,carbon,oval,1650,Intermediate
+447,Panther Swift,head light,77,SwiftWing,G5,Swift Orange/Savannah Tan,25,graphite,isometric,1700,Intermediate
+450,Ghost Phantom,head light,76,PhantomTech,G5,Phantom Black/Ghost Silver,26,carbon,oval,1650,Intermediate
+453,Celestial Nova,head light,78,NovaTech,G5,Nova Pink/Starry Blue,25,graphite,isometric,1750,Intermediate
+456,Aurora Light,head light,77,LightWing,G5,Light White/Prism Green,26,carbon,oval,1700,Intermediate
+462,Breeze Feather,head light,75,FeatherTech,G5,Feather White/Light Gray,25,carbon,oval,1600,Intermediate
+464,Typhoon Storm,head light,76,StormWing,G5,Storm Gray/Tempest Blue,26,carbon,oval,1650,Intermediate
+467,Jaguar Speed,head light,77,SpeedTech,G5,Speed Orange/Savannah Tan,25,graphite,isometric,1700,Intermediate
+470,Ghost Phantom,head light,76,PhantomTech,G5,Phantom Black/Ghost Silver,26,carbon,oval,1650,Intermediate
+472,Aurora Light,head light,77,LightWing,G5,Light White/Prism Green,26,carbon,oval,1700,Intermediate
+478,Breeze Feather,head light,75,FeatherTech,G5,Feather White/Light Gray,25,carbon,oval,1600,Intermediate
+480,Typhoon Storm,head light,76,StormWing,G5,Storm Gray/Tempest Blue,26,carbon,oval,1650,Intermediate
+483,Jaguar Speed,head light,77,SpeedTech,G5,Speed Orange/Savannah Tan,25,graphite,isometric,1700,Intermediate
+486,Ghost Phantom,head light,76,PhantomTech,G5,Phantom Black/Ghost Silver,26,carbon,oval,1650,Intermediate
+489,Celestial Star,head light,78,StarTech,G5,Star Pink/Celestial Blue,25,graphite,isometric,1750,Intermediate
+492,Aurora Light,head light,77,LightWing,G5,Light White/Prism Green,26,carbon,oval,1700,Intermediate
+498,Feather Light,head light,75,LightTech,G5,Light White/Light Gray,25,carbon,oval,1600,Intermediate
+500,Typhoon Tempest,head light,76,TempestTech,G5,Tempest Gray/Tempest Blue,26,carbon,oval,1650,Intermediate
+503,Panther Swift,head light,77,SwiftWing,G5,Swift Orange/Savannah Tan,25,graphite,isometric,1700,Intermediate
+506,Ghost Phantom,head light,76,PhantomTech,G5,Phantom Black/Ghost Silver,26,carbon,oval,1650,Intermediate
+509,Celestial Nova,head light,78,NovaTech,G5,Nova Pink/Starry Blue,25,graphite,isometric,1750,Intermediate
+512,Aurora Light,head light,77,LightWing,G5,Light White/Prism Green,26,carbon,oval,1700,Intermediate
+518,Breeze Feather,head light,75,FeatherTech,G5,Feather White/Light Gray,25,carbon,oval,1600,Intermediate
+520,Typhoon Storm,head light,76,StormWing,G5,Storm Gray/Tempest Blue,26,carbon,oval,1650,Intermediate
+523,Jaguar Speed,head light,77,SpeedTech,G5,Speed Orange/Savannah Tan,25,graphite,isometric,1700,Intermediate
+526,Ghost Phantom,head light,76,PhantomTech,G5,Phantom Black/Ghost Silver,26,carbon,oval,1650,Intermediate
+533,Feather Breeze,head light,74,BreezeTech,G5,Breeze White/Light Blue,25,carbon,oval,1620,Intermediate
+535,Typhoon Wave,head light,75,WaveWing,G5,Wave Gray/Ocean Blue,26,carbon,oval,1670,Intermediate
+538,Panther Agile,head light,76,AgileTech,G5,Agile Orange/Jungle Tan,25,graphite,isometric,1720,Intermediate
+541,Ghost Wraith,head light,76,WraithTech,G5,Wraith Black/Phantom Silver,26,carbon,oval,1670,Intermediate
+544,Celestial Quasar,head light,78,QuasarTech,G5,Quasar Pink/Star Blue,25,graphite,isometric,1770,Intermediate
+547,Aurora Spark,head light,77,SparkWing,G5,Spark White/Prism Green,26,carbon,oval,1720,Intermediate
+553,Feather Lightwing,head light,75,LightwingTech,G5,Lightwing White/Light Gray,25,carbon,oval,1620,Intermediate
+555,Typhoon Thunder,head light,76,ThunderTech,G5,Thunder Gray/Storm Blue,26,carbon,oval,1670,Intermediate
+558,Panther Speedster,head light,77,SpeedsterTech,G5,Speedster Orange/Savannah Tan,25,graphite,isometric,1720,Intermediate
+561,Ghost Phantom,head light,76,PhantomTech,G5,Phantom Black/Ghost Silver,26,carbon,oval,1670,Intermediate
+564,Celestial Nova,head light,78,NovaTech,G5,Nova Pink/Starry Blue,25,graphite,isometric,1770,Intermediate
+567,Aurora Light,head light,77,LightWing,G5,Light White/Prism Green,26,carbon,oval,1720,Intermediate
+573,Breeze Feather,head light,75,FeatherTech,G5,Feather White/Light Gray,25,carbon,oval,1620,Intermediate
+575,Typhoon Storm,head light,76,StormWing,G5,Storm Gray/Tempest Blue,26,carbon,oval,1670,Intermediate
+578,Jaguar Speed,head light,77,SpeedTech,G5,Speed Orange/Savannah Tan,25,graphite,isometric,1720,Intermediate
+581,Ghost Phantom,head light,76,PhantomTech,G5,Phantom Black/Ghost Silver,26,carbon,oval,1670,Intermediate
+585,Quasar Spark,head light,78,SparkTech,G5,Spark Pink/Star Silver,25,graphite,isometric,1800,Intermediate
+588,Nebula Comet,head light,76,CometWing,G5,Comet Black/Nebula Blue,26,graphite,oval,1680,Intermediate
+592,Nova Starlight,head light,77,StarlightTech,G5,Starlight Silver/Night Black,26,carbon,oval,1720,Intermediate
+595,Aurora Flash,head light,78,FlashTech,G5,Flash White/Rainbow Blue,25,graphite,isometric,1800,Intermediate
+598,Prism Light,head light,76,LightWing,G5,Light Pink/Prism White,26,carbon,oval,1680,Intermediate
+601,Quasar Flame,head light,78,FlameWing,G5,Flame Orange/Star Silver,25,carbon,isometric,1800,Intermediate
+606,Orion Zenith,head light,77,ZenithTech,G5,Zenith Silver/Night Black,26,carbon,oval,1720,Intermediate
+609,Nebula Flash,head light,78,FlashWing,G5,Flash White/Nebula Blue,25,graphite,isometric,1800,Intermediate
+612,Photon Radiance,head light,76,RadianceTech,G5,Radiance Pink/Light Blue,26,carbon,oval,1680,Intermediate
+615,Quasar Blaze,head light,78,BlazeTech,G5,Blaze White/Star Silver,25,carbon,isometric,1800,Intermediate
+620,Orion Radiance,head light,77,RadianceWing,G5,Radiance Silver/Night Black,26,carbon,oval,1720,Intermediate
+623,Nebula Spark,head light,78,SparkTech,G5,Spark White/Nebula Blue,25,graphite,isometric,1800,Intermediate
+626,Photon Flash,head light,76,FlashTech,G5,Flash Pink/Light Blue,26,carbon,oval,1680,Intermediate
+629,Quasar Storm,head light,78,StormWing,G5,Storm White/Star Silver,25,carbon,isometric,1800,Intermediate
+634,Orion Flash,head light,77,FlashWing,G5,Flash Silver/Night Black,26,carbon,oval,1720,Intermediate
+637,Nebula Blaze,head light,78,BlazeWing,G5,Blaze White/Nebula Blue,25,graphite,isometric,1800,Intermediate

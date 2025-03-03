@@ -1,0 +1,11 @@
+,Model_name,Racket_type,Weight,Brand,Grip_size,Color,Tension,Material,Head_shape,Price,Playing_level
+9,Windstorm 72,head light,75,Carlton,G3,Silver,24,aluminum,oval,1200,Beginner
+639,Bolt 55,Even Balance,80,Yonex,G4,Blue,22,Graphite,Round,1500,Beginner
+640,Blaze 70,Head Heavy,85,Wilson,G2,Red,26,Carbon Fiber,Isometric,1800,Beginner
+641,Swift 60,Head Light,78,Babolat,G3,Black,23,Composite,Oval,1300,Beginner
+642,Firestorm 65,Even Balance,70,Prince,G2,Green,25,Alloy,Oval,1100,Beginner
+643,Storm 50,Head Heavy,82,Head,G3,Yellow,24,Graphene,Oval,1400,Beginner
+644,Glide 45,Even Balance,76,Dunlop,G2,Orange,21,Titanium,Round,1600,Beginner
+645,Fury 80,Head Light,79,Wilson,G3,Blue,23,Fiberglass,Oval,1250,Beginner
+646,Rapid 58,Even Balance,74,Yonex,G4,Red,20,Carbon Composite,Round,1700,Beginner
+647,Zenith 75,Head Heavy,83,Babolat,G2,Green,27,Aluminum,Oval,1350,Beginner

@@ -1,0 +1,512 @@
+Model_name,Racket_type,Weight,Brand,Grip_size,Color,Tension,Material,Head_shape,Price,Playing_level
+Nanoray Light 18i,head heavy,77,Yonex,G4,Black,28,carbon,isometric,1800,Advanced
+Voltric Z-Force II,head heavy,85,Yonex,G5,Gold,26,graphite,oval,2200,Professional
+Aeronaut 7000,even balance,82,Li-Ning,G3,Red/White,27,carbon,isometric,1600,Intermediate
+Duora 10,dual balanced,88,Yonex,G4,Blue/Orange,29,graphite,isometric,1900,Advanced
+Meteor X 80,head light,76,Victor,G5,Green,25,carbon,oval,1500,Intermediate
+Thruster K 15,head heavy,83,Kawasaki,G3,Black/Yellow,28,graphite,isometric,1400,Advanced
+Turbo Charging 20,even balance,79,Li-Ning,G4,White/Blue,26,carbon,oval,1700,Intermediate
+Arcsaber 11,even balance,86,Yonex,G5,Red/Black,27,graphite,isometric,2000,Professional
+Astrox 88D,head heavy,88,Yonex,G4,Blue,29,graphite,isometric,2100,Professional
+Windstorm 72,head light,75,Carlton,G3,Silver,24,aluminum,oval,1200,Beginner
+Nanoflare 700,head light,78,Yonex,G4,Red,27,graphite,isometric,1900,Advanced
+JS-12,even balance,81,Victor,G5,Black/Red,26,carbon,oval,1600,Intermediate
+Air Blade 500,head heavy,84,Li-Ning,G3,Blue/White,28,graphite,isometric,1800,Advanced
+Voltric 80 E-Tune,head heavy,86,Yonex,G4,Black/Gold,29,graphite,oval,2000,Professional
+Jetspeed S 10,head light,77,Victor,G5,Orange,25,carbon,isometric,1500,Intermediate
+Turbo Charging 75,even balance,80,Li-Ning,G4,White/Green,27,graphite,oval,1700,Advanced
+Nanoray Z-Speed,head heavy,89,Yonex,G3,Yellow/Black,30,carbon,isometric,2200,Professional
+Hypernano X 900,head light,76,Yonex,G5,Blue/White,26,graphite,oval,1800,Advanced
+Thruster F Claw,head heavy,85,Kawasaki,G4,Green/Black,28,carbon,isometric,1600,Intermediate
+Arcsaber FD,even balance,82,Yonex,G3,White,27,graphite,oval,1900,Advanced
+Astrox 99,head heavy,88,Yonex,G4,Red/Black,29,graphite,isometric,2100,Professional
+Jetspeed 12,head light,77,Victor,G5,Blue/Yellow,26,carbon,oval,1600,Intermediate
+Windstorm 799,even balance,81,Carlton,G3,Silver/Red,27,graphite,isometric,1700,Advanced
+Turbo Charging 50,head heavy,84,Li-Ning,G4,Black/Gold,28,carbon,oval,1900,Professional
+Nanoray 900,head light,76,Yonex,G5,White/Blue,25,graphite,isometric,1800,Advanced
+Thruster K 9,even balance,80,Kawasaki,G3,Green/White,27,carbon,oval,1500,Intermediate
+Voltric Glanz,head heavy,86,Yonex,G4,Gold/Black,29,graphite,isometric,2000,Professional
+Air Blade 600,head light,78,Li-Ning,G5,Red/Silver,26,carbon,oval,1700,Advanced
+Meteor X 90,even balance,82,Victor,G3,Black/Orange,28,graphite,isometric,1800,Intermediate
+Duora 7,dual balanced,85,Yonex,G4,Blue/Pink,27,carbon,oval,1900,Advanced
+Hypernano X 800,head heavy,87,Yonex,G5,Yellow/Black,29,graphite,isometric,2100,Professional
+JS-10,head light,76,Victor,G3,White/Red,25,carbon,oval,1600,Intermediate
+Arcsaber 8 PB,even balance,83,Yonex,G4,Purple/Black,28,graphite,isometric,1900,Advanced
+Thruster F NR,head heavy,85,Kawasaki,G5,Blue/Yellow,29,carbon,oval,1700,Professional
+Windstorm 900,head light,77,Carlton,G3,Black/Silver,26,graphite,isometric,1500,Intermediate
+Turbo Charging 30,even balance,81,Li-Ning,G4,White/Orange,27,carbon,oval,1800,Advanced
+Nanoflare 800,head light,79,Yonex,G5,Blue/White,26,graphite,isometric,2000,Professional
+Jetspeed S 12,head heavy,86,Victor,G3,Red/Black,28,carbon,oval,1900,Advanced
+Astrox 77,even balance,82,Yonex,G4,Yellow/Black,27,graphite,isometric,1800,Intermediate
+Voltric 0F,head heavy,88,Yonex,G5,Black/Red,29,carbon,oval,2200,Professional
+Duora 88,dual balanced,86,Yonex,G4,White/Orange,28,graphite,isometric,2000,Professional
+Air Blade 700,head light,77,Li-Ning,G5,Black/Gold,26,carbon,oval,1800,Advanced
+Meteor X 100,head heavy,85,Victor,G3,Blue/Silver,29,carbon,isometric,1900,Professional
+Thruster K 20,even balance,80,Kawasaki,G4,Green/Black,27,graphite,oval,1600,Intermediate
+Nanoray 800,head light,78,Yonex,G5,Red/White,25,carbon,isometric,1700,Advanced
+Voltric FB,head heavy,87,Yonex,G3,Gold/Blue,29,graphite,oval,2100,Professional
+Windstorm 950,even balance,82,Carlton,G4,Silver/Green,28,carbon,isometric,1800,Advanced
+Turbo Charging 60,head heavy,86,Li-Ning,G5,White/Red,30,graphite,oval,2000,Professional
+JS-15,head light,76,Victor,G3,Orange/Black,25,carbon,isometric,1500,Intermediate
+Arcsaber 10,even balance,83,Yonex,G4,Purple/White,27,graphite,oval,1900,Advanced
+Hypernano X 1000,head heavy,88,Yonex,G5,Black/Yellow,29,carbon,isometric,2200,Professional
+Jetspeed 15,head light,77,Victor,G3,Red/Silver,26,graphite,oval,1700,Intermediate
+Astrox 66,even balance,81,Yonex,G4,Blue/Orange,28,carbon,isometric,1800,Advanced
+Thruster F Pro,head heavy,85,Kawasaki,G5,Yellow/Black,29,graphite,oval,2000,Professional
+Nanoflare 600,head light,78,Yonex,G3,White/Blue,26,carbon,isometric,1900,Advanced
+Turbo Charging 40,even balance,82,Li-Ning,G4,Black/Red,27,graphite,oval,1700,Intermediate
+Voltric Z-Force,head heavy,87,Yonex,G5,Gold/Black,30,carbon,isometric,2100,Professional
+Meteor X 70,head light,76,Victor,G3,Green/White,25,graphite,oval,1600,Intermediate
+Duora 6,dual balanced,84,Yonex,G4,Pink/Black,28,carbon,isometric,1800,Advanced
+Air Blade 800,head heavy,86,Li-Ning,G5,Silver/Blue,29,graphite,oval,2000,Professional
+Duora 5,dual balanced,83,Yonex,G4,Pink/Blue,27,carbon,isometric,1800,Advanced
+Air Blade 1000,head heavy,86,Li-Ning,G5,Black/Silver,29,graphite,oval,2100,Professional
+Meteor X 60,head light,76,Victor,G3,Green/Yellow,25,carbon,isometric,1600,Intermediate
+Thruster K 30,even balance,82,Kawasaki,G4,Blue/White,28,graphite,oval,1900,Advanced
+Nanoray 600,head light,77,Yonex,G5,Red/Black,26,carbon,isometric,1700,Intermediate
+Voltric 70,head heavy,87,Yonex,G3,Gold/Red,30,graphite,oval,2000,Professional
+Windstorm 920,even balance,81,Carlton,G4,Silver/Blue,27,carbon,isometric,1800,Advanced
+Turbo Charging 100,head heavy,85,Li-Ning,G5,White/Black,29,graphite,oval,2100,Professional
+JS-25,head light,78,Victor,G3,Orange/White,26,carbon,isometric,1700,Intermediate
+Arcsaber 6,even balance,82,Yonex,G4,Purple/Gold,28,graphite,oval,1900,Advanced
+Hypernano X 500,head light,77,Yonex,G5,Yellow/Black,25,carbon,isometric,1600,Intermediate
+Jetspeed S 18,head heavy,86,Victor,G3,Red/Blue,29,graphite,oval,2000,Professional
+Astrox 58,even balance,80,Yonex,G4,Blue/Silver,27,carbon,isometric,1800,Advanced
+Thruster F Blade,head heavy,85,Kawasaki,G5,Black/Green,30,graphite,oval,2000,Professional
+Nanoflare 400,head light,76,Yonex,G3,White/Red,26,carbon,isometric,1700,Intermediate
+Turbo Charging 70,even balance,83,Li-Ning,G4,Silver/Orange,28,graphite,oval,1900,Advanced
+Voltric 3,head heavy,87,Yonex,G5,Black/Gold,29,carbon,isometric,2100,Professional
+Meteor X 120,head light,78,Victor,G3,Green/White,25,graphite,oval,1800,Intermediate
+Duora 4,dual balanced,84,Yonex,G4,Orange/Black,27,carbon,isometric,1900,Advanced
+Air Blade 950,head heavy,86,Li-Ning,G5,Blue/Yellow,30,graphite,oval,2000,
+Windstorm 980,head light,77,Carlton,G4,Silver/Purple,26,carbon,isometric,1700,Advanced
+Nanoray 550,even balance,82,Yonex,G5,Red/White,28,graphite,oval,1900,Professional
+Thruster K 35,head heavy,85,Kawasaki,G3,Black/Orange,29,carbon,isometric,2000,Advanced
+Jetspeed 20,head light,76,Victor,G4,Blue/Gold,25,graphite,oval,1600,Intermediate
+Astrox 52,even balance,81,Yonex,G5,Yellow/Black,27,carbon,isometric,1800,Advanced
+Turbo Charging 110,head heavy,87,Li-Ning,G3,White/Green,30,graphite,oval,2100,Professional
+Voltric 65,head heavy,86,Yonex,G4,Gold/Blue,29,carbon,isometric,2000,Professional
+Air Blade 850,head light,78,Li-Ning,G5,Black/Silver,26,graphite,oval,1800,Advanced
+Meteor X 95,even balance,83,Victor,G3,Purple/White,28,carbon,isometric,1900,Intermediate
+Duora 3,dual balanced,84,Yonex,G4,Pink/Black,27,graphite,oval,1900,Advanced
+Hypernano X 400,head light,77,Yonex,G5,White/Red,25,carbon,isometric,1700,Intermediate
+JS-30,head heavy,85,Victor,G3,Green/Gold,29,graphite,oval,2000,Professional
+Arcsaber 5,even balance,82,Yonex,G4,Blue/Orange,28,carbon,isometric,1800,Advanced
+Thruster F Power,head heavy,86,Kawasaki,G5,Red/Yellow,30,graphite,oval,2100,Professional
+Nanoflare 300,head light,76,Yonex,G3,Black/White,26,carbon,isometric,1600,Intermediate
+Turbo Charging 55,even balance,83,Li-Ning,G4,Silver/Blue,27,graphite,oval,1900,Advanced
+Voltric 1,head heavy,87,Yonex,G5,Gold/Black,29,carbon,isometric,2000,Professional
+Windstorm 800,head light,78,Carlton,G3,White/Green,25,graphite,oval,1700,Intermediate
+Jetspeed 25,even balance,81,Victor,G4,Orange/Silver,28,carbon,isometric,1800,Advanced
+Astrox 48,head heavy,85,Yonex,G5,Blue/Red,29,graphite,oval,2000,Professional
+Duora 2,dual balanced,83,Yonex,G4,White/Purple,27,carbon,isometric,1850,Advanced
+Air Blade 750,head heavy,86,Li-Ning,G5,Black/Red,29,graphite,oval,2050,Professional
+Meteor X 55,head light,76,Victor,G3,Yellow/Black,25,carbon,isometric,1550,Intermediate
+Thruster K 40,even balance,82,Kawasaki,G4,Green/White,28,graphite,oval,1950,Advanced
+Nanoray 500,head light,77,Yonex,G5,Blue/Orange,26,carbon,isometric,1750,Intermediate
+Voltric 60,head heavy,87,Yonex,G3,Red/Gold,30,graphite,oval,2100,Professional
+Windstorm 890,even balance,81,Carlton,G4,Silver/Black,27,carbon,isometric,1800,Advanced
+Turbo Charging 95,head heavy,85,Li-Ning,G5,White/Blue,29,graphite,oval,2000,Professional
+JS-35,head light,78,Victor,G3,Purple/Yellow,26,carbon,isometric,1700,Intermediate
+Arcsaber 4,even balance,82,Yonex,G4,Orange/White,28,graphite,oval,1900,Advanced
+Hypernano X 300,head light,77,Yonex,G5,Black/Green,25,carbon,isometric,1650,Intermediate
+Jetspeed S 20,head heavy,86,Victor,G3,Blue/Silver,29,graphite,oval,2050,Professional
+Astrox 46,even balance,80,Yonex,G4,Red/White,27,carbon,isometric,1850,Advanced
+Thruster F Speed,head heavy,85,Kawasaki,G5,Yellow/Blue,30,graphite,oval,2100,Professional
+Nanoflare 200,head light,76,Yonex,G3,White/Black,26,carbon,isometric,1600,Intermediate
+Turbo Charging 45,even balance,83,Li-Ning,G4,Gold/Red,28,graphite,oval,1950,Advanced
+Voltric 0,head heavy,87,Yonex,G5,Black/Silver,29,carbon,isometric,2150,Professional
+Meteor X 130,head light,78,Victor,G3,Green/Orange,25,graphite,oval,1750,Intermediate
+Duora 1,dual balanced,84,Yonex,G4,Pink/White,27,carbon,isometric,1900,Advanced
+Air Blade 700,head heavy,86,Li-Ning,G5,Blue/Black,30,graphite,oval,2050,Professional
+Skyline X90,head heavy,87,Forza,G4,Navy/Silver,29,graphite,isometric,1950,Professional
+Swift Blade 700,even balance,81,Ashaway,G5,Red/Gold,27,carbon,oval,1800,Advanced
+PowerStrike 3000,head light,76,RSL,G3,Black/Neon Green,25,composite,isometric,1650,Intermediate
+Fusion Pro,dual balanced,84,Apacs,G4,White/Blue,28,nanomesh,oval,1900,Advanced
+Tornado Force,head heavy,86,Babolat,G5,Orange/Gray,30,tungsten,isometric,2100,Professional
+Cosmic GX,even balance,82,Mizuno,G3,Purple/Silver,28,graphite,oval,1850,Advanced
+Titan Cloud,head light,77,Adidas,G4,Green/White,26,carbon,isometric,1700,Intermediate
+Precision Pro,head heavy,85,Wilson,G5,Black/Yellow,29,kevlar,oval,2000,Professional
+Stealth Blade,even balance,80,Black Knight,G3,Silver/Red,27,carbon,isometric,1800,Advanced
+Quantum X80,head light,78,Oliver,G4,Blue/Orange,26,graphite,oval,1750,Intermediate
+Hurricane Force,head heavy,87,FZ Forza,G5,Yellow/Black,30,nanomaterial,isometric,2050,Professional
+Airstream 9000,even balance,83,Fleet,G3,White/Gold,28,carbon,oval,1900,Advanced
+Mega Power,head heavy,86,Prokennex,G4,Red/Silver,29,graphite,isometric,2000,Professional
+Feather Light Pro,head light,75,Karakal,G5,Light Blue/White,25,carbon,oval,1600,Intermediate
+Titan Woven,even balance,82,Tactic,G3,Black/Orange,27,graphite,isometric,1850,Advanced
+Vortex 1000,head heavy,85,Victo,G4,Green/Gold,29,graphite,oval,1950,Professional
+Aero Smash,head light,77,Gosen,G5,Purple/Neon Yellow,26,carbon,isometric,1700,Intermediate
+Phantom X-Speed,even balance,81,Ashaway,G3,Silver/Blue,28,graphite,oval,1800,Advanced
+Cyclone Power,head heavy,86,Victor,G4,Orange/Black,30,tungsten,isometric,2100,Professional
+Kinetic K9,dual balanced,83,Yehlex,G5,White/Red,27,carbon,oval,1900,Advanced
+Thunderbolt X,head heavy,88,Sosan,G4,Red/Black,30,graphite,isometric,2150,Professional
+AeroFlex Elite,even balance,82,Yang Yang,G5,Blue/Silver,28,carbon,oval,1900,Advanced
+LightSpeed Pro,head light,76,Sotx,G3,White/Green,25,nano-alloy,isometric,1650,Intermediate
+PowerForce Ultimate,head heavy,87,Winex,G4,Orange/Gray,29,tungsten,oval,2050,Professional
+AirStream Lite,head light,75,Wish,G5,Yellow/Purple,26,graphite,isometric,1600,Intermediate
+Quantum Blade,even balance,83,Toalson,G3,Black/Neon Blue,28,carbon,oval,1850,Advanced
+Titanium Spark,head heavy,86,Bonny,G4,Silver/Red,30,titanium alloy,isometric,2000,Professional
+Feather Touch,head light,77,Kumpoo,G5,Pink/White,25,carbon,oval,1700,Intermediate
+Vortex Storm,even balance,82,Babolat,G3,Green/Gold,27,graphite,isometric,1900,Advanced
+Tornado Elite,head heavy,85,Yonex,G4,Purple/Silver,29,graphite,oval,2100,Professional
+Swift Strike,head light,78,Victor,G5,Navy/Orange,26,carbon,isometric,1750,Intermediate
+Precision Master,even balance,81,Li-Ning,G3,Red/White,28,aerotec beam,oval,1850,Advanced
+Stealth Assassin,head heavy,87,Kawasaki,G4,Black/Neon Green,30,nano-composite,isometric,2050,Professional
+Cosmic Flare,head light,76,Carlton,G5,Blue/Yellow,25,graphite,oval,1650,Intermediate
+Titan Force,even balance,83,Ashaway,G3,White/Black,28,carbon,isometric,1900,Advanced
+Hurricane X,head heavy,86,Forza,G4,Orange/Blue,29,carbon,oval,2000,Professional
+Airborne Assault,head light,77,RSL,G5,Green/Silver,26,graphite,isometric,1700,Intermediate
+Phantom Edge,even balance,82,Apacs,G3,Purple/Gold,27,carbon,oval,1850,Advanced
+Cyclone Fury,head heavy,85,Black Knight,G4,Red/Gray,30,graphite,isometric,2100,Professional
+Kinetic Wave,dual balanced,84,Fleet,G5,Yellow/Black,28,carbon,oval,1950,Advanced
+Falcon Wing,head heavy,87,Proace,G4,Teal/Gold,29,carbon,isometric,2050,Professional
+Zenith Pro,even balance,82,Xamsa,G5,Black/Silver,27,graphite,oval,1900,Advanced
+Featherlight X,head light,75,Yehlex,G3,White/Lime,25,carbon,isometric,1600,Intermediate
+Thunderstrike Elite,head heavy,86,Tracer,G4,Red/Navy,30,graphite,oval,2100,Professional
+AeroSwift Lite,head light,77,Talbot Torro,G5,Orange/Gray,26,carbon,isometric,1700,Intermediate
+Quantum Flux,even balance,83,Senston,G3,Purple/Neon Yellow,28,nano-composite,oval,1850,Advanced
+TitanForce X,head heavy,88,Perfly,G4,Blue/Orange,31,graphite,isometric,2150,Professional
+Swift Feather,head light,76,Pointfore,G5,Green/White,25,carbon,oval,1650,Intermediate
+Vortex Precision,even balance,81,Oliver,G3,Silver/Black,27,graphite,isometric,1800,Advanced
+Cyclone Blast,head heavy,85,Mizuno,G4,Yellow/Purple,29,carbon,oval,2000,Professional
+Stealth Shadow,head light,78,Mantis,G5,Charcoal/Neon Blue,26,carbon,isometric,1750,Intermediate
+Hurricane Force Pro,even balance,82,Karakal,G3,Red/Silver,28,graphite,oval,1900,Advanced
+Phantom Striker,head heavy,87,Gosen,G4,Black/Gold,30,carbon,isometric,2100,Professional
+Cosmic Flare Lite,head light,76,FZ Forza,G5,Pink/Gray,25,graphite,oval,1650,Intermediate
+AirStream Assault,even balance,83,Fleet,G3,Navy/Neon Green,28,carbon,isometric,1950,Advanced
+Titan Sword,head heavy,86,Essence,G4,White/Red,29,graphite,oval,2050,Professional
+LightSpeed Ace,head light,77,Dunlop,G5,Light Blue/Black,26,carbon,isometric,1700,Intermediate
+Precision Elite,even balance,82,Donnay,G3,Orange/White,27,graphite,oval,1850,Advanced
+Tornado Fury,head heavy,85,Babolat,G4,Green/Gold,30,carbon,isometric,2000,Professional
+Kinetic Pulse,dual balanced,84,Ashaway,G5,Purple/Silver,28,graphite,oval,1950,Advanced
+Nebula Force,head heavy,87,Starlight,G4,Galaxy Blue/Silver,29,carbon,isometric,2100,Professional
+Velocity Pro,even balance,83,Swiftblade,G5,Red/Black,28,graphite,oval,1950,Advanced
+Feather Rush,head light,76,Aerowing,G3,White/Neon Orange,25,carbon,isometric,1650,Intermediate
+Titan Crusher,head heavy,88,Powersmash,G4,Gunmetal/Gold,31,graphite,oval,2200,Professional
+Zephyr Lite,head light,75,Windforce,G5,Teal/Yellow,26,carbon,isometric,1600,Intermediate
+Quantum Surge,even balance,82,Nanotech,G3,Electric Blue/White,27,graphite,oval,1850,Advanced
+Thunderbolt Pro,head heavy,86,Stormbreaker,G4,Black/Lightning Yellow,30,carbon,isometric,2050,Professional
+Swift Glide,head light,77,Glidetech,G5,Silver/Lime Green,25,carbon,oval,1700,Intermediate
+Vortex Extreme,even balance,84,Extremeforce,G3,Orange/Dark Gray,28,graphite,isometric,1900,Advanced
+Cyclone Master,head heavy,87,Windmaster,G4,Purple/Neon Green,29,carbon,oval,2150,Professional
+Stealth Ninja,head light,76,Shadowcraft,G5,Matte Black/Red,26,graphite,isometric,1650,Intermediate
+Hurricane X-Force,even balance,83,Stormtech,G3,Navy/Flash Orange,28,carbon,oval,1950,Advanced
+Phantom Edge Pro,head heavy,85,Edgemaster,G4,Charcoal/Electric Blue,30,graphite,isometric,2000,Professional
+Cosmic Flare Ultra,head light,78,Ultralight,G5,Neon Yellow/Black,25,carbon,oval,1750,Intermediate
+AirStream Elite,even balance,82,Eliteforce,G3,White/Royal Blue,27,carbon,isometric,1850,Advanced
+Titan Blaze,head heavy,86,Blazetech,G4,Flame Red/Orange,29,graphite,oval,2100,Professional
+LightSpeed Falcon,head light,77,Falconwing,G5,Sky Blue/Silver,26,carbon,isometric,1700,Intermediate
+Precision Sniper,even balance,81,Sharpshooter,G3,Green/Black,28,graphite,oval,1800,Advanced
+Tornado Twister,head heavy,85,Twisttech,G4,Tornado Gray/Neon Pink,30,carbon,isometric,2050,Professional
+Kinetic Fusion,dual balanced,84,Fusioncraft,G5,Fusion Purple/Gold,28,graphite,oval,1950,Advanced
+Apex Predator,head heavy,88,ApexTech,G4,Predator Black/Red,31,carbon,isometric,2200,Professional
+Nimbus Cloud,even balance,82,Cloudstrike,G5,Cloud White/Sky Blue,27,graphite,oval,1900,Advanced
+Feather Whisper,head light,75,WhisperTech,G3,Whisper Gray/Pink,25,carbon,isometric,1600,Intermediate
+Titan Colossus,head heavy,87,ColossalForce,G4,Titanium Silver/Blue,30,graphite,oval,2150,Professional
+Zephyr Breeze,head light,76,BreezeWing,G5,Breeze Green/White,26,carbon,isometric,1650,Intermediate
+Quantum Leap,even balance,83,LeapForce,G3,Quantum Purple/Neon Green,28,graphite,oval,1950,Advanced
+Thunderstorm Elite,head heavy,86,StormElite,G4,Storm Gray/Lightning Yellow,29,carbon,isometric,2100,Professional
+Swift Current,head light,77,CurrentTech,G5,River Blue/Silver,25,graphite,oval,1700,Intermediate
+Vortex Typhoon,even balance,84,TyphoonForce,G3,Typhoon Teal/Orange,28,carbon,isometric,1950,Advanced
+Cyclone Tornado,head heavy,87,TornadoTech,G4,Tornado Red/Black,30,graphite,oval,2200,Professional
+Stealth Phantom,head light,76,PhantomCraft,G5,Ghost White/Shadow Gray,26,carbon,isometric,1650,Intermediate
+Hurricane Tempest,even balance,83,TempestForce,G3,Tempest Blue/Flash Yellow,28,graphite,oval,1900,Advanced
+Phantom Mirage,head heavy,85,MirageWorks,G4,Mirage Silver/Purple,29,carbon,isometric,2050,Professional
+Cosmic Nova,head light,78,NovaLight,G5,Nova Orange/Stardust White,25,graphite,oval,1750,Intermediate
+AirStream Jet,even balance,82,JetStream,G3,Jet Black/Neon Blue,27,carbon,isometric,1850,Advanced
+Titan Atlas,head heavy,86,AtlasForce,G4,Atlas Gold/Onyx Black,30,graphite,oval,2150,Professional
+LightSpeed Photon,head light,77,PhotonTech,G5,Photon Yellow/Electric Purple,26,carbon,isometric,1700,Intermediate
+Precision Hawk,even balance,81,HawkEye,G3,Hawk Brown/Forest Green,28,graphite,oval,1800,Advanced
+Tornado Cyclone,head heavy,85,CycloneForce,G4,Cyclone Blue/Storm Gray,29,carbon,isometric,2000,Professional
+Kinetic Electron,dual balanced,84,ElectronTech,G5,Electron Blue/Proton Red,28,graphite,oval,1950,Advanced
+Sigma Flux,head heavy,87,FluxTech,G4,Flux Green/Sigma Black,30,carbon,isometric,2100,Professional
+Helios Sun,even balance,83,SolarForce,G5,Solar Yellow/Helios Orange,28,graphite,oval,1950,Advanced
+Feather Cirrus,head light,76,CirrusTech,G3,Cirrus White/Sky Blue,25,carbon,isometric,1650,Intermediate
+Titan Olympus,head heavy,88,OlympusForce,G4,Olympian Gold/Royal Blue,31,graphite,oval,2200,Professional
+Zephyr Mistral,head light,75,MistralWing,G5,Misty Gray/Sea Green,26,carbon,isometric,1600,Intermediate
+Quantum Quasar,even balance,82,QuasarTech,G3,Quasar Purple/Cosmic White,27,graphite,oval,1850,Advanced
+Thunderbolt Zeus,head heavy,86,ZeusForce,G4,Zeus Blue/Lightning Silver,29,carbon,isometric,2050,Professional
+Swift Mercury,head light,77,MercurySpeed,G5,Mercury Silver/Flash Red,25,graphite,oval,1700,Intermediate
+Vortex Maelstrom,even balance,84,MaelstromTech,G3,Maelstrom Blue/Whirlpool White,28,carbon,isometric,1900,Advanced
+Cyclone Sirocco,head heavy,87,SiroccoForce,G4,Sirocco Orange/Desert Tan,30,graphite,oval,2150,Professional
+Stealth Eclipse,head light,76,EclipseTech,G5,Eclipse Black/Lunar Gray,26,carbon,isometric,1650,Intermediate
+Hurricane Monsoon,even balance,83,MonsoonForce,G3,Monsoon Green/Storm Gray,28,graphite,oval,1950,Advanced
+Phantom Spectre,head heavy,85,SpectreTech,G4,Spectre Silver/Ghost White,29,carbon,isometric,2000,Professional
+Cosmic Nebula,head light,78,NebulaTech,G5,Nebula Pink/Stardust Purple,25,graphite,oval,1750,Intermediate
+AirStream Zephyr,even balance,82,ZephyrTech,G3,Zephyr Blue/Cloud White,27,carbon,isometric,1850,Advanced
+Titan Kraken,head heavy,86,KrakenForce,G4,Kraken Black/Deep Sea Blue,30,graphite,oval,2100,Professional
+LightSpeed Aurora,head light,77,AuroraTech,G5,Aurora Green/Polar White,26,carbon,isometric,1700,Intermediate
+Precision Falcon,even balance,81,FalconTech,G3,Falcon Brown/Sky Blue,28,graphite,oval,1800,Advanced
+Tornado Tsunami,head heavy,85,TsunamiForce,G4,Tsunami Blue/Wave White,29,carbon,isometric,2050,Professional
+Kinetic Neutron,dual balanced,84,NeutronTech,G5,Neutron Gray/Energy Green,28,graphite,oval,1950,Advanced
+Plasma Pulse,head heavy,87,PulseTech,G4,Plasma Blue/Electric White,30,carbon,isometric,2150,Professional
+Nova Burst,even balance,83,BurstForce,G5,Nova Orange/Cosmic Black,28,graphite,oval,1950,Advanced
+Feather Wisp,head light,75,WispTech,G3,Wisp White/Ethereal Silver,25,carbon,isometric,1600,Intermediate
+Titan Goliath,head heavy,88,GoliathForce,G4,Goliath Red/Stone Gray,31,graphite,oval,2200,Professional
+Zephyr Chinook,head light,76,ChinookWing,G5,Chinook Green/Arctic White,26,carbon,isometric,1650,Intermediate
+Quantum Void,even balance,82,VoidTech,G3,Void Black/Nebula Purple,27,graphite,oval,1850,Advanced
+Thunderbolt Thor,head heavy,86,ThorForce,G4,Thor Silver/Storm Blue,29,carbon,isometric,2100,Professional
+Swift Comet,head light,77,CometSpeed,G5,Comet White/Tail Blue,25,graphite,oval,1700,Intermediate
+Vortex Whirlwind,even balance,84,WhirlwindTech,G3,Whirlwind Gray/Cyclone Yellow,28,carbon,isometric,1900,Advanced
+Cyclone Harmattan,head heavy,87,HarmattanForce,G4,Harmattan Gold/Desert Brown,30,graphite,oval,2150,Professional
+Stealth Wraith,head light,76,WraithTech,G5,Wraith Black/Shadow Purple,26,carbon,isometric,1650,Intermediate
+Hurricane Typhoon,even balance,83,TyphoonForce,G3,Typhoon Blue/Cloud Gray,28,graphite,oval,1950,Advanced
+Phantom Poltergeist,head heavy,85,PoltergeistTech,G4,Poltergeist White/Ectoplasm Green,29,carbon,isometric,2000,Professional
+Cosmic Pulsar,head light,78,PulsarTech,G5,Pulsar Red/Star White,25,graphite,oval,1750,Intermediate
+AirStream Mistral,even balance,82,MistralTech,G3,Mistral Blue/Sea Foam,27,carbon,isometric,1850,Advanced
+Titan Colossus,head heavy,86,ColossusForce,G4,Colossus Bronze/Olympian Gold,30,graphite,oval,2100,Professional
+LightSpeed Neutrino,head light,77,NeutrinoTech,G5,Neutrino Blue/Quantum White,26,carbon,isometric,1700,Intermediate
+Precision Eagle,even balance,81,EagleTech,G3,Eagle Brown/Sky Blue,28,graphite,oval,1800,Advanced
+Tornado Derecho,head heavy,85,DerechoForce,G4,Derecho Green/Storm Gray,29,carbon,isometric,2050,Professional
+Kinetic Fusion,dual balanced,84,FusionTech,G5,Fusion Purple/Reactor Blue,28,graphite,oval,1950,Advanced
+Supernova Flare,head heavy,87,FlareTech,G4,Supernova Red/Cosmic Black,30,carbon,isometric,2150,Professional
+Astro Voyager,even balance,83,VoyagerForce,G5,Astro Blue/Starlight Silver,28,graphite,oval,1950,Advanced
+Feather Nimbus,head light,75,NimbusTech,G3,Nimbus Gray/Cloud White,25,carbon,isometric,1600,Intermediate
+Titan Behemoth,head heavy,88,BehemothForce,G4,Behemoth Black/Titanium Gray,31,graphite,oval,2200,Professional
+Zephyr Sirocco,head light,76,SiroccoWing,G5,Sirocco Tan/Desert Gold,26,carbon,isometric,1650,Intermediate
+Quantum Singularity,even balance,82,SingularityTech,G3,Singularity Black/Event Horizon Blue,27,graphite,oval,1850,Advanced
+Thunderbolt Odin,head heavy,86,OdinForce,G4,Odin Gold/Asgard Silver,29,carbon,isometric,2100,Professional
+Swift Meteor,head light,77,MeteorSpeed,G5,Meteor Gray/Flame Orange,25,graphite,oval,1700,Intermediate
+Vortex Tempest,even balance,84,TempestTech,G3,Tempest Blue/Lightning White,28,carbon,isometric,1900,Advanced
+Cyclone Mistral,head heavy,87,MistralForce,G4,Mistral Green/Sea Foam,30,graphite,oval,2150,Professional
+Stealth Shadowblade,head light,76,ShadowbladeTech,G5,Shadow Black/Ninja Gray,26,carbon,isometric,1650,Intermediate
+Hurricane Blizzard,even balance,83,BlizzardForce,G3,Blizzard White/Ice Blue,28,graphite,oval,1950,Advanced
+Phantom Banshee,head heavy,85,BansheeTech,G4,Banshee White/Spectral Green,29,carbon,isometric,2000,Professional
+Cosmic Quasar,head light,78,QuasarTech,G5,Quasar Purple/Galactic Silver,25,graphite,oval,1750,Intermediate
+AirStream Jetstream,even balance,82,JetstreamTech,G3,Jetstream Blue/Cloud White,27,carbon,isometric,1850,Advanced
+Titan Atlas,head heavy,86,AtlasForce,G4,Atlas Silver/Mountain Blue,30,graphite,oval,2100,Professional
+LightSpeed Photon,head light,77,PhotonTech,G5,Photon Yellow/Light Blue,26,carbon,isometric,1700,Intermediate
+Precision Hawk,even balance,81,HawkTech,G3,Hawk Brown/Forest Green,28,graphite,oval,1800,Advanced
+Tornado Cyclone,head heavy,85,CycloneForce,G4,Cyclone Gray/Storm Blue,29,carbon,isometric,2050,Professional
+Kinetic Electron,dual balanced,84,ElectronTech,G5,Electron Blue/Energy Green,28,graphite,oval,1950,Advanced
+Galactic Nova,head heavy,87,NovaTech,G4,Galactic Purple/Stardust Silver,30,carbon,isometric,2150,Professional
+Zenith Peak,even balance,83,PeakForce,G5,Zenith Blue/Summit White,28,graphite,oval,1950,Advanced
+Feather Gossamer,head light,75,GossamerTech,G3,Gossamer White/Mist Gray,25,carbon,isometric,1600,Intermediate
+Titan Leviathan,head heavy,88,LeviathanForce,G4,Leviathan Blue/Deep Sea Black,31,graphite,oval,2200,Professional
+Zephyr Boreas,head light,76,BoreasWing,G5,Boreas Silver/Arctic Blue,26,carbon,isometric,1650,Intermediate
+Quantum Paradox,even balance,82,ParadoxTech,G3,Paradox Black/Schrodinger's Blue,27,graphite,oval,1850,Advanced
+Thunderbolt Raijin,head heavy,86,RaijinForce,G4,Raijin Gold/Storm Gray,29,carbon,isometric,2100,Professional
+Swift Cheetah,head light,77,CheetahSpeed,G5,Cheetah Orange/Savannah Tan,25,graphite,oval,1700,Intermediate
+Vortex Tsunami,even balance,84,TsunamiTech,G3,Tsunami Blue/Wave White,28,carbon,isometric,1900,Advanced
+Cyclone Tornado,head heavy,87,TornadoForce,G4,Tornado Red/Cyclone Gray,30,graphite,oval,2150,Professional
+Stealth Phantom,head light,76,PhantomTech,G5,Phantom Black/Ghost White,26,carbon,isometric,1650,Intermediate
+Hurricane Tempest,even balance,83,TempestForce,G3,Tempest Green/Storm Silver,28,graphite,oval,1950,Advanced
+Phantom Specter,head heavy,85,SpecterTech,G4,Specter Gray/Ectoplasm Green,29,carbon,isometric,2000,Professional
+Cosmic Nebula,head light,78,NebulaTech,G5,Nebula Pink/Celestial Blue,25,graphite,oval,1750,Intermediate
+AirStream Slipstream,even balance,82,SlipstreamTech,G3,Slipstream Silver/Sky Blue,27,carbon,isometric,1850,Advanced
+Titan Prometheus,head heavy,86,PrometheusForce,G4,Prometheus Orange/Olympian Gold,30,graphite,oval,2100,Professional
+LightSpeed Lumina,head light,77,LuminaTech,G5,Lumina White/Prism Rainbow,26,carbon,isometric,1700,Intermediate
+Precision Osprey,even balance,81,OspreyTech,G3,Osprey Gray/Ocean Blue,28,graphite,oval,1800,Advanced
+Tornado Vortex,head heavy,85,VortexForce,G4,Vortex Purple/Whirlwind Silver,29,carbon,isometric,2050,Professional
+Kinetic Proton,dual balanced,84,ProtonTech,G5,Proton Red/Neutron Blue,28,graphite,oval,1950,Advanced
+Stellar Comet,head heavy,88,CometTech,G4,Comet Silver/Meteor Gray,30,carbon,oval,2200,Professional
+Aero Stratos,even balance,81,StratosForce,G3,Stratos Blue/Sky White,27,graphite,isometric,1850,Advanced
+Whirlwind Gale,head light,76,GaleTech,G5,Gale White/Wind Gray,25,carbon,oval,1600,Intermediate
+Magma Volcano,head heavy,87,VolcanoForce,G4,Volcano Red/Lava Black,31,graphite,isometric,2150,Professional
+Breeze Zephyr,head light,75,ZephyrWing,G5,Zephyr Silver/Cloud Blue,26,carbon,oval,1650,Intermediate
+Nebula Eclipse,even balance,82,EclipseTech,G3,Eclipse Black/Starry Blue,28,graphite,isometric,1900,Advanced
+Lightning Bolt,head heavy,85,BoltForce,G4,Bolt Gold/Storm Gray,29,carbon,oval,2050,Professional
+Speedster Jaguar,head light,77,JaguarSpeed,G5,Jaguar Orange/Forest Tan,25,graphite,isometric,1700,Intermediate
+Tempest Typhoon,even balance,83,TyphoonTech,G3,Typhoon Blue/Wave White,27,carbon,oval,1950,Advanced
+Twister Cyclone,head heavy,86,CycloneForce,G4,Cyclone Red/Tornado Gray,30,graphite,isometric,2100,Professional
+Phantom Mirage,head light,76,MirageTech,G5,Mirage Black/Ghost White,26,carbon,oval,1650,Intermediate
+Storm Surge,even balance,84,SurgeForce,G3,Surge Green/Storm Silver,28,graphite,isometric,2000,Advanced
+Shadow Specter,head heavy,87,SpecterForce,G4,Specter Gray/Ectoplasm Green,30,carbon,oval,2150,Professional
+Celestial Nova,head light,78,NovaWing,G5,Nova Pink/Starry Blue,25,graphite,isometric,1750,Intermediate
+AirFlow Stream,even balance,82,StreamTech,G3,Stream Silver/Sky Blue,27,carbon,oval,1900,Advanced
+Blaze Prometheus,head heavy,86,PrometheusWing,G4,Prometheus Orange/Olympian Gold,30,graphite,isometric,2100,Professional
+LightSpeed Aurora,head light,77,AuroraTech,G5,Aurora White/Prism Rainbow,26,carbon,oval,1700,Intermediate
+Precision Falcon,even balance,81,FalconTech,G3,Falcon Gray/Ocean Blue,28,graphite,isometric,1800,Advanced
+Twister Tornado,head heavy,85,TornadoWing,G4,Tornado Purple/Whirlwind Silver,29,carbon,oval,2050,Professional
+Kinetic Neutron,dual balanced,84,NeutronTech,G5,Neutron Red/Proton Blue,28,graphite,isometric,1950,Advanced
+Aurora Polaris,head light,76,PolarisTech,G5,Polaris White/Aurora Green,25,carbon,oval,1600,Intermediate
+Meteor Blaze,head heavy,88,BlazeForce,G4,Blaze Orange/Meteor Black,31,graphite,isometric,2200,Professional
+Nimbus Sky,even balance,82,SkyTech,G3,Sky Blue/Cloud White,27,graphite,oval,1850,Advanced
+Gust Tempest,head light,75,TempestWing,G5,Tempest White/Wind Gray,26,carbon,isometric,1650,Intermediate
+Inferno Magma,head heavy,87,MagmaForce,G4,Magma Red/Flame Black,30,graphite,oval,2150,Professional
+Cyclone Twister,even balance,84,TwisterTech,G3,Twister Blue/Wind White,28,graphite,isometric,1900,Advanced
+Thunderbolt Zeus,head heavy,85,ZeusForce,G4,Zeus Gold/Thunder Gray,29,carbon,oval,2050,Professional
+Panther Swift,head light,77,SwiftTech,G5,Swift Orange/Jungle Tan,25,graphite,isometric,1700,Intermediate
+Tempest Surge,even balance,83,SurgeTech,G3,Surge Blue/Wave White,27,carbon,oval,1950,Advanced
+Typhoon Hurricane,head heavy,86,HurricaneForce,G4,Hurricane Red/Storm Gray,30,graphite,isometric,2100,Professional
+Mirage Phantom,head light,76,PhantomWing,G5,Phantom Black/Ghost Silver,26,carbon,oval,1650,Intermediate
+Storm Cyclone,even balance,84,CycloneWing,G3,Cyclone Green/Storm Silver,28,graphite,isometric,2000,Advanced
+Specter Shadow,head heavy,87,ShadowTech,G4,Shadow Gray/Ectoplasm Green,30,carbon,oval,2150,Professional
+Starlight Nova,head light,78,NovaForce,G5,Nova Pink/Starlight Blue,25,graphite,isometric,1750,Intermediate
+Streamline AirFlow,even balance,82,AirFlowTech,G3,AirFlow Silver/Sky Blue,27,carbon,oval,1900,Advanced
+Prometheus Blaze,head heavy,86,BlazeWing,G4,Blaze Orange/Olympian Gold,30,graphite,isometric,2100,Professional
+Luminous Aurora,head light,77,AuroraWing,G5,Aurora White/Prism Green,26,carbon,oval,1700,Intermediate
+Falcon Precision,even balance,81,PrecisionTech,G3,Precision Gray/Ocean Blue,28,graphite,isometric,1800,Advanced
+Tornado Twister,head heavy,85,TwisterWing,G4,Twister Purple/Whirlwind Silver,29,carbon,oval,2050,Professional
+Proton Kinetic,dual balanced,84,KineticTech,G5,Kinetic Red/Neutron Blue,28,graphite,isometric,1950,Advanced
+Orion Zenith,head heavy,88,ZenithForce,G4,Zenith Gold/Starlight White,31,graphite,oval,2200,Professional
+Vega Nova,even balance,82,NovaWing,G3,Nova Silver/Galaxy Blue,27,graphite,isometric,1850,Advanced
+Breeze Feather,head light,75,FeatherTech,G5,Feather White/Light Gray,25,carbon,oval,1600,Intermediate
+Inferno Lava,head heavy,87,LavaForce,G4,Lava Red/Charcoal Black,30,graphite,isometric,2150,Professional
+Typhoon Storm,head light,76,StormWing,G5,Storm Gray/Tempest Blue,26,carbon,oval,1650,Intermediate
+Eclipse Cosmos,even balance,82,CosmosTech,G3,Cosmos Black/Nebula Blue,28,graphite,isometric,1900,Advanced
+Lightning Thunder,head heavy,85,ThunderForce,G4,Thunder Gold/Storm Gray,29,carbon,oval,2050,Professional
+Jaguar Speed,head light,77,SpeedTech,G5,Speed Orange/Savannah Tan,25,graphite,isometric,1700,Intermediate
+Typhoon Surge,even balance,83,SurgeWing,G3,Surge Blue/Wave White,27,carbon,oval,1950,Advanced
+Twister Vortex,head heavy,86,VortexForce,G4,Vortex Red/Whirlwind Gray,30,graphite,isometric,2100,Professional
+Ghost Phantom,head light,76,PhantomTech,G5,Phantom Black/Ghost Silver,26,carbon,oval,1650,Intermediate
+Cyclone Storm,even balance,84,StormTech,G3,Storm Green/Tempest Silver,28,graphite,isometric,2000,Advanced
+Shadow Spectre,head heavy,87,SpectreForce,G4,Spectre Gray/Ectoplasm Green,30,carbon,oval,2150,Professional
+Celestial Star,head light,78,StarTech,G5,Star Pink/Celestial Blue,25,graphite,isometric,1750,Intermediate
+Aero Stream,even balance,82,StreamWing,G3,Stream Silver/Sky Blue,27,carbon,oval,1900,Advanced
+Blaze Inferno,head heavy,86,InfernoTech,G4,Inferno Orange/Olympian Gold,30,graphite,isometric,2100,Professional
+Aurora Light,head light,77,LightTech,G5,Light White/Prism Green,26,carbon,oval,1700,Intermediate
+Falcon Precision,even balance,81,FalconWing,G3,Falcon Gray/Ocean Blue,28,graphite,isometric,1800,Advanced
+Twister Tornado,head heavy,85,TornadoTech,G4,Tornado Purple/Whirlwind Silver,29,carbon,oval,2050,Professional
+Kinetic Proton,dual balanced,84,ProtonWing,G5,Proton Red/Neutron Blue,28,graphite,isometric,1950,Advanced
+Orion Meteor,head heavy,88,MeteorForce,G4,Meteor Gold/Starlight White,31,graphite,oval,2200,Professional
+Vega Zenith,even balance,82,ZenithWing,G3,Zenith Silver/Galaxy Blue,27,graphite,isometric,1850,Advanced
+Feather Breeze,head light,75,BreezeTech,G5,Breeze White/Light Gray,25,carbon,oval,1600,Intermediate
+Inferno Flame,head heavy,87,FlameForce,G4,Flame Red/Charcoal Black,30,graphite,isometric,2150,Professional
+Typhoon Gale,head light,76,GaleWing,G5,Gale Gray/Tempest Blue,26,carbon,oval,1650,Intermediate
+Eclipse Nebula,even balance,82,NebulaTech,G3,Nebula Black/Starry Blue,28,graphite,isometric,1900,Advanced
+Lightning Bolt,head heavy,85,BoltTech,G4,Bolt Gold/Storm Gray,29,carbon,oval,2050,Professional
+Panther Speed,head light,77,SpeedWing,G5,Speed Orange/Savannah Tan,25,graphite,isometric,1700,Intermediate
+Typhoon Surge,even balance,83,SurgeForce,G3,Surge Blue/Wave White,27,carbon,oval,1950,Advanced
+Twister Cyclone,head heavy,86,CycloneForce,G4,Cyclone Red/Whirlwind Gray,30,graphite,isometric,2100,Professional
+Ghost Shadow,head light,76,ShadowWing,G5,Shadow Black/Ghost Silver,26,carbon,oval,1650,Intermediate
+Cyclone Typhoon,even balance,84,TyphoonTech,G3,Typhoon Green/Tempest Silver,28,graphite,isometric,2000,Advanced
+Specter Phantom,head heavy,87,PhantomForce,G4,Phantom Gray/Ectoplasm Green,30,carbon,oval,2150,Professional
+Celestial Comet,head light,78,CometTech,G5,Comet Pink/Celestial Blue,25,graphite,isometric,1750,Intermediate
+Aero Glide,even balance,82,GlideWing,G3,Glide Silver/Sky Blue,27,carbon,oval,1900,Advanced
+Blaze Prometheus,head heavy,86,PrometheusTech,G4,Prometheus Orange/Olympian Gold,30,graphite,isometric,2100,Professional
+Aurora Light,head light,77,LightWing,G5,Light White/Prism Green,26,carbon,oval,1700,Intermediate
+Falcon Sharp,even balance,81,SharpTech,G3,Sharp Gray/Ocean Blue,28,graphite,isometric,1800,Advanced
+Twister Whirlwind,head heavy,85,WhirlwindTech,G4,Whirlwind Purple/Whirlwind Silver,29,carbon,oval,2050,Professional
+Kinetic Proton,dual balanced,84,ProtonForce,G5,Proton Red/Neutron Blue,28,graphite,isometric,1950,Advanced
+Orion Nova,head heavy,88,NovaForce,G4,Nova Gold/Starlight White,31,graphite,oval,2200,Professional
+Vega Meteor,even balance,82,MeteorWing,G3,Meteor Silver/Galaxy Blue,27,graphite,isometric,1850,Advanced
+Feather Light,head light,75,LightTech,G5,Light White/Light Gray,25,carbon,oval,1600,Intermediate
+Inferno Blaze,head heavy,87,BlazeWing,G4,Blaze Red/Charcoal Black,30,graphite,isometric,2150,Professional
+Typhoon Tempest,head light,76,TempestTech,G5,Tempest Gray/Tempest Blue,26,carbon,oval,1650,Intermediate
+Eclipse Galaxy,even balance,82,GalaxyTech,G3,Galaxy Black/Starry Blue,28,graphite,isometric,1900,Advanced
+Lightning Thunder,head heavy,85,ThunderWing,G4,Thunder Gold/Storm Gray,29,carbon,oval,2050,Professional
+Panther Swift,head light,77,SwiftWing,G5,Swift Orange/Savannah Tan,25,graphite,isometric,1700,Intermediate
+Twister Vortex,head heavy,86,VortexWing,G4,Vortex Red/Whirlwind Gray,30,graphite,isometric,2100,Professional
+Cyclone Typhoon,even balance,84,TyphoonForce,G3,Typhoon Green/Tempest Silver,28,graphite,isometric,2000,Advanced
+Celestial Nova,head light,78,NovaTech,G5,Nova Pink/Starry Blue,25,graphite,isometric,1750,Intermediate
+Aero Stream,even balance,82,StreamTech,G3,Stream Silver/Sky Blue,27,carbon,oval,1900,Advanced
+Blaze Inferno,head heavy,86,InfernoWing,G4,Inferno Orange/Olympian Gold,30,graphite,isometric,2100,Professional
+Falcon Precision,even balance,81,FalconTech,G3,Falcon Gray/Ocean Blue,28,graphite,isometric,1800,Advanced
+Falcon Precision,even balance,81,FalconElite,G3,Falcon Gray/Aqua Blue,28,graphite,isometric,1820,Advanced
+Whirlwind Force,head heavy,86,ForceTech,G4,Force Purple/Tornado Silver,29,carbon,oval,2070,Professional
+Kinetic Gamma,dual balanced,83,GammaForce,G5,Gamma Red/Neutron Silver,28,graphite,isometric,1980,Advanced
+Orion Comet,head heavy,88,CometTech,G4,Comet Gold/Star White,31,graphite,oval,2250,Professional
+Vega Pulsar,even balance,81,PulsarWing,G3,Pulsar Silver/Nebula Blue,27,graphite,isometric,1880,Advanced
+Feather Breeze,head light,74,BreezeTech,G5,Breeze White/Light Blue,25,carbon,oval,1620,Intermediate
+Inferno Scorch,head heavy,87,ScorchForce,G4,Scorch Red/Ember Black,30,graphite,isometric,2170,Professional
+Typhoon Wave,head light,75,WaveWing,G5,Wave Gray/Ocean Blue,26,carbon,oval,1670,Intermediate
+Eclipse Solar,even balance,83,SolarTech,G3,Solar Black/Sun Blue,28,graphite,isometric,1920,Advanced
+Lightning Bolt,head heavy,84,BoltForce,G4,Bolt Gold/Thunder Gray,29,carbon,oval,2070,Professional
+Panther Agile,head light,76,AgileTech,G5,Agile Orange/Jungle Tan,25,graphite,isometric,1720,Intermediate
+Typhoon Surge,even balance,83,SurgeWing,G3,Surge Blue/Wave White,27,carbon,oval,1970,Advanced
+Twister Cyclone,head heavy,86,CycloneForce,G4,Cyclone Red/Storm Gray,30,graphite,isometric,2120,Professional
+Ghost Wraith,head light,76,WraithTech,G5,Wraith Black/Phantom Silver,26,carbon,oval,1670,Intermediate
+Cyclone Fury,even balance,84,FuryTech,G3,Fury Green/Typhoon Silver,28,graphite,isometric,2020,Advanced
+Shadow Phantom,head heavy,87,PhantomForce,G4,Phantom Gray/Ghost Green,30,carbon,oval,2170,Professional
+Celestial Quasar,head light,78,QuasarTech,G5,Quasar Pink/Star Blue,25,graphite,isometric,1770,Intermediate
+Aero Glide,even balance,82,GlideWing,G3,Glide Silver/Sky Blue,27,carbon,oval,1920,Advanced
+Blaze Firestorm,head heavy,86,FirestormTech,G4,Firestorm Orange/Olympian Gold,30,graphite,isometric,2120,Professional
+Aurora Spark,head light,77,SparkWing,G5,Spark White/Prism Green,26,carbon,oval,1720,Intermediate
+Falcon Apex,even balance,81,ApexTech,G3,Apex Gray/Ocean Blue,28,graphite,isometric,1820,Advanced
+Twister Tempest,head heavy,85,TempestTech,G4,Tempest Purple/Whirlwind Silver,29,carbon,oval,2070,Professional
+Kinetic Quark,dual balanced,84,QuarkForce,G5,Quark Red/Neutron Blue,28,graphite,isometric,1980,Advanced
+Orion Nebula,head heavy,88,NebulaForce,G4,Nebula Gold/Starlight White,31,graphite,oval,2250,Professional
+Vega Starburst,even balance,82,StarburstWing,G3,Starburst Silver/Galaxy Blue,27,graphite,isometric,1880,Advanced
+Feather Lightwing,head light,75,LightwingTech,G5,Lightwing White/Light Gray,25,carbon,oval,1620,Intermediate
+Inferno Blaze,head heavy,87,BlazeForce,G4,Blaze Red/Charcoal Black,30,graphite,isometric,2170,Professional
+Typhoon Thunder,head light,76,ThunderTech,G5,Thunder Gray/Storm Blue,26,carbon,oval,1670,Intermediate
+Eclipse Stellar,even balance,82,StellarTech,G3,Stellar Black/Nebula Blue,28,graphite,isometric,1920,Advanced
+Lightning Spark,head heavy,85,SparkForce,G4,Spark Gold/Thunder Gray,29,carbon,oval,2070,Professional
+Panther Speedster,head light,77,SpeedsterTech,G5,Speedster Orange/Savannah Tan,25,graphite,isometric,1720,Intermediate
+Typhoon Stormer,even balance,83,StormerWing,G3,Stormer Blue/Wave White,27,carbon,oval,1970,Advanced
+Twister Cyclone,head heavy,86,CycloneWing,G4,Cyclone Red/Whirlwind Gray,30,graphite,isometric,2120,Professional
+Ghost Phantom,head light,76,PhantomTech,G5,Phantom Black/Ghost Silver,26,carbon,oval,1670,Intermediate
+Cyclone Vortex,even balance,84,VortexTech,G3,Vortex Green/Tempest Silver,28,graphite,isometric,2020,Advanced
+Specter Phantom,head heavy,87,PhantomForce,G4,Phantom Gray/Ectoplasm Green,30,carbon,oval,2170,Professional
+Celestial Nova,head light,78,NovaTech,G5,Nova Pink/Starry Blue,25,graphite,isometric,1770,Intermediate
+Aero Streamer,even balance,82,StreamerTech,G3,Streamer Silver/Sky Blue,27,carbon,oval,1920,Advanced
+Blaze Inferno,head heavy,86,InfernoWing,G4,Inferno Orange/Olympian Gold,30,graphite,isometric,2120,Professional
+Aurora Light,head light,77,LightWing,G5,Light White/Prism Green,26,carbon,oval,1720,Intermediate
+Falcon Elite,even balance,81,EliteTech,G3,Elite Gray/Ocean Blue,28,graphite,isometric,1820,Advanced
+Twister Whirlwind,head heavy,85,WhirlwindTech,G4,Whirlwind Purple/Tornado Silver,29,carbon,oval,2070,Professional
+Kinetic Proton,dual balanced,84,ProtonForce,G5,Proton Red/Neutron Blue,28,graphite,isometric,1980,Advanced
+Orion Zenith,head heavy,88,ZenithTech,G4,Zenith Gold/Starlight White,31,graphite,oval,2250,Professional
+Vega Nova,even balance,82,NovaWing,G3,Nova Silver/Galaxy Blue,27,graphite,isometric,1880,Advanced
+Breeze Feather,head light,75,FeatherTech,G5,Feather White/Light Gray,25,carbon,oval,1620,Intermediate
+Inferno Lava,head heavy,87,LavaTech,G4,Lava Red/Ember Black,30,graphite,isometric,2170,Professional
+Typhoon Storm,head light,76,StormWing,G5,Storm Gray/Tempest Blue,26,carbon,oval,1670,Intermediate
+Eclipse Cosmos,even balance,82,CosmosTech,G3,Cosmos Black/Nebula Blue,28,graphite,isometric,1920,Advanced
+Lightning Thunder,head heavy,85,ThunderForce,G4,Thunder Gold/Storm Gray,29,carbon,oval,2070,Professional
+Jaguar Speed,head light,77,SpeedTech,G5,Speed Orange/Savannah Tan,25,graphite,isometric,1720,Intermediate
+Twister Vortex,head heavy,86,VortexForce,G4,Vortex Red/Whirlwind Gray,30,graphite,isometric,2120,Professional
+Cyclone Storm,even balance,84,StormTech,G3,Storm Green/Tempest Silver,28,graphite,isometric,2020,Advanced
+Hurricane Surge,even balance,82,SurgeTech,G3,Surge Green/Wind White,27,graphite,isometric,1930,Advanced
+Meteor Blaze,head heavy,88,BlazeTech,G4,Blaze Red/Fire Gold,31,graphite,oval,2300,Professional
+Quasar Spark,head light,78,SparkTech,G5,Spark Pink/Star Silver,25,graphite,isometric,1800,Intermediate
+Orbit Storm,even balance,84,StormWing,G3,Storm Blue/Cosmic White,28,graphite,oval,1950,Advanced
+Photon Radiance,head heavy,86,RadianceTech,G4,Radiance Gold/Light Silver,29,carbon,isometric,2200,Professional
+Nebula Comet,head light,76,CometWing,G5,Comet Black/Nebula Blue,26,graphite,oval,1680,Intermediate
+Volcano Inferno,head heavy,89,InfernoTech,G4,Inferno Orange/Crimson Red,32,carbon,isometric,2350,Professional
+Aero Breeze,even balance,83,BreezeWing,G3,Breeze White/Sky Blue,27,graphite,oval,1920,Advanced
+Vortex Cyclone,head heavy,87,CycloneTech,G4,Cyclone Purple/Storm Gray,30,graphite,isometric,2180,Professional
+Nova Starlight,head light,77,StarlightTech,G5,Starlight Silver/Night Black,26,carbon,oval,1720,Intermediate
+Comet Blaze,even balance,84,BlazeWing,G3,Blaze Red/Yellow Flame,28,graphite,isometric,1960,Advanced
+Stellar Radiance,head heavy,85,RadianceWing,G4,Radiance Silver/Star Gold,29,carbon,oval,2220,Professional
+Aurora Flash,head light,78,FlashTech,G5,Flash White/Rainbow Blue,25,graphite,isometric,1800,Intermediate
+Tornado Storm,even balance,82,StormTech,G3,Storm Green/Wind White,27,carbon,oval,1930,Advanced
+Meteor Lightning,head heavy,88,LightningWing,G4,Lightning Gold/Storm Silver,31,graphite,isometric,2300,Professional
+Prism Light,head light,76,LightWing,G5,Light Pink/Prism White,26,carbon,oval,1680,Intermediate
+Cyclone Thunder,even balance,84,ThunderTech,G3,Thunder Blue/Storm Gray,28,graphite,isometric,1950,Advanced
+Nova Starburst,head heavy,86,StarburstTech,G4,Starburst Gold/Night Black,29,graphite,isometric,2200,Professional
+Quasar Flame,head light,78,FlameWing,G5,Flame Orange/Star Silver,25,carbon,isometric,1800,Intermediate
+Hurricane Tempest,even balance,83,TempestWing,G3,Tempest Blue/Wind White,27,graphite,oval,1920,Advanced
+Inferno Magma,head heavy,89,MagmaTech,G4,Magma Red/Crimson Black,32,graphite,isometric,2350,Professional
+Aero Glide,even balance,82,GlideTech,G3,Glide White/Sky Blue,27,carbon,oval,1930,Advanced
+Vortex Fury,head heavy,87,FuryWing,G4,Fury Purple/Storm Gray,30,graphite,isometric,2180,Professional
+Orion Zenith,head light,77,ZenithTech,G5,Zenith Silver/Night Black,26,carbon,oval,1720,Intermediate
+Comet Spark,even balance,84,SparkWing,G3,Spark Red/Yellow Flame,28,graphite,isometric,1960,Advanced
+Stellar Blaze,head heavy,85,BlazeWing,G4,Blaze Silver/Star Gold,29,carbon,oval,2220,Professional
+Nebula Flash,head light,78,FlashWing,G5,Flash White/Nebula Blue,25,graphite,isometric,1800,Intermediate
+Tornado Surge,even balance,82,SurgeTech,G3,Surge Green/Wind White,27,carbon,oval,1930,Advanced
+Meteor Blaze,head heavy,88,BlazeWing,G4,Blaze Gold/Fire Silver,31,graphite,isometric,2300,Professional
+Photon Radiance,head light,76,RadianceTech,G5,Radiance Pink/Light Blue,26,carbon,oval,1680,Intermediate
+Cyclone Tempest,even balance,84,TempestWing,G3,Tempest Green/Storm Gray,28,graphite,isometric,1950,Advanced
+Nova Lightning,head heavy,86,LightningTech,G4,Lightning Silver/Night Black,29,graphite,isometric,2200,Professional
+Quasar Blaze,head light,78,BlazeTech,G5,Blaze White/Star Silver,25,carbon,isometric,1800,Intermediate
+Hurricane Storm,even balance,83,StormWing,G3,Storm Blue/Wind White,27,graphite,oval,1920,Advanced
+Inferno Volcanic,head heavy,89,VolcanoTech,G4,Volcanic Red/Crimson Black,32,graphite,isometric,2350,Professional
+Aero Tempest,even balance,82,TempestTech,G3,Tempest White/Sky Blue,27,carbon,oval,1930,Advanced
+Vortex Lightning,head heavy,87,LightningTech,G4,Lightning Purple/Storm Gray,30,graphite,isometric,2180,Professional
+Orion Radiance,head light,77,RadianceWing,G5,Radiance Silver/Night Black,26,carbon,oval,1720,Intermediate
+Comet Blaze,even balance,84,BlazeTech,G3,Blaze Red/Yellow Flame,28,graphite,isometric,1960,Advanced
+Stellar Thunder,head heavy,85,ThunderTech,G4,Thunder Silver/Star Gold,29,carbon,oval,2220,Professional
+Nebula Spark,head light,78,SparkTech,G5,Spark White/Nebula Blue,25,graphite,isometric,1800,Intermediate
+Tornado Surge,even balance,82,SurgeWing,G3,Surge Green/Wind White,27,carbon,oval,1930,Advanced
+Meteor Blaze,head heavy,88,BlazeTech,G4,Blaze Gold/Fire Silver,31,graphite,isometric,2300,Professional
+Photon Flash,head light,76,FlashTech,G5,Flash Pink/Light Blue,26,carbon,oval,1680,Intermediate
+Cyclone Storm,even balance,84,StormTech,G3,Storm Green/Tempest Gray,28,graphite,isometric,1950,Advanced
+Nova Inferno,head heavy,86,InfernoTech,G4,Inferno Silver/Night Black,29,graphite,isometric,2200,Professional
+Quasar Storm,head light,78,StormWing,G5,Storm White/Star Silver,25,carbon,isometric,1800,Intermediate
+Hurricane Radiance,even balance,83,RadianceTech,G3,Radiance Blue/Wind White,27,graphite,oval,1920,Advanced
+Aero Surge,even balance,82,SurgeTech,G3,Surge White/Sky Blue,27,carbon,oval,1930,Advanced
+Vortex Blaze,head heavy,87,BlazeTech,G4,Blaze Purple/Storm Gray,30,graphite,isometric,2180,Professional
+Orion Flash,head light,77,FlashWing,G5,Flash Silver/Night Black,26,carbon,oval,1720,Intermediate
+Comet Radiance,even balance,84,RadianceWing,G3,Radiance Red/Yellow Flame,28,graphite,isometric,1960,Advanced
+Stellar Surge,head heavy,85,SurgeTech,G4,Surge Silver/Star Gold,29,carbon,oval,2220,Professional
+Nebula Blaze,head light,78,BlazeWing,G5,Blaze White/Nebula Blue,25,graphite,isometric,1800,Intermediate
+Tornado Radiance,even balance,82,RadianceTech,G3,Radiance Green/Wind White,27,carbon,oval,1930,Advanced
+Bolt 55,Even Balance,80,Yonex,G4,Blue,22,Graphite,Round,1500,Beginner
+Blaze 70,Head Heavy,85,Wilson,G2,Red,26,Carbon Fiber,Isometric,1800,Beginner
+Swift 60,Head Light,78,Babolat,G3,Black,23,Composite,Oval,1300,Beginner
+Firestorm 65,Even Balance,70,Prince,G2,Green,25,Alloy,Oval,1100,Beginner
+Storm 50,Head Heavy,82,Head,G3,Yellow,24,Graphene,Oval,1400,Beginner
+Glide 45,Even Balance,76,Dunlop,G2,Orange,21,Titanium,Round,1600,Beginner
+Fury 80,Head Light,79,Wilson,G3,Blue,23,Fiberglass,Oval,1250,Beginner
+Rapid 58,Even Balance,74,Yonex,G4,Red,20,Carbon Composite,Round,1700,Beginner
+Zenith 75,Head Heavy,83,Babolat,G2,Green,27,Aluminum,Oval,1350,Beginner
